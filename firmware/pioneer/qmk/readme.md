@@ -1,6 +1,6 @@
 # keyboard/pioneer
 
-![keyboard/pioneer](imgur.com image replace me!)
+![keyboard/pioneer](https://i.imgur.com/xRaUzw1.jpg)
 
 *A short description of the keyboard/project*
 
