@@ -14,7 +14,7 @@ Pioneer is a simple daughterboard that supports a pro-micro-like microcontroller
 ![voyager](https://i.imgur.com/eZRtOx9.jpg)
 Voyager is a complicated daughterboard that supports a pro-micro-like microcontroller, either oled or nice!view, a battery, and two switches (reset and power). Because of this, it is very thick to support all the hardware. In this case, I decided to use a Supermini for cost reasons. However, a genuine nice!nano should work as well. For programming, zmk was used for Bluetooth. 
 
-# pcb
+# PCB
 ![pcb](https://i.imgur.com/IOk0xZr.jpg)
 All you need is one pcb for all the boards. This is because I designed the daughter boards to be in the corners of the board to save manufacturing costs. This is at the cost of needing to score and snap off each board.
 ![pcb](https://i.imgur.com/F1MUYgN.jpg)
@@ -22,5 +22,21 @@ All you need is one pcb for all the boards. This is because I designed the daugh
 The reason why this works is because all the connections are standardized
 ![pcb](https://i.imgur.com/Bw5ACVp.png)
 
-# parts
+# Parts
 The most important part of the whole build was the DB25 connectors. I had to edit the existing DB25 footprint to fit my DB25 pins. So, you might have to as well.
+Here is the list of parts I used
+- pcb
+- db25 connectors from amazon
+- promicro 
+- nice!nano clone
+- nice!view from typeractive.xyz (they are great btw)
+-  holy panda clones
+- silent honey peaches
+- 3 pin switches
+- 1n4148 diodes
+- uv resin
+- some wire for cs pin
+- keycaps (cerakeys w)
+
+# anything else
+please ask me anything if you guys want to! it is joshyeram on most platforms.
