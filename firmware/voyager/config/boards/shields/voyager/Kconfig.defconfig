@@ -1,0 +1,6 @@
+if SHIELD_VOYAGER
+
+config ZMK_KEYBOARD_NAME
+    default "voyager"
+
+endif
