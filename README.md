@@ -21,6 +21,7 @@ All you need is one pcb for all the boards. This is because I designed the daugh
 ![pcb](https://i.imgur.com/mCTm1j5.jpg)
 The reason why this works is because all the connections are standardized
 ![pcb](https://i.imgur.com/Bw5ACVp.png)
+Also, I think I got really lucky with the auditor not checking the thin mouse bite. so you may need to increase the tab if they do not except it.
 
 # Parts
 The most important part of the whole build was the DB25 connectors. I had to edit the existing DB25 footprint to fit my DB25 pins. So, you might have to as well.
