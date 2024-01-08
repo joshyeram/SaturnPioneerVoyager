@@ -23,6 +23,9 @@ The reason why this works is because all the connections are standardized
 ![pcb](https://i.imgur.com/Bw5ACVp.png)
 Also, I think I got really lucky with the auditor not checking the thin mouse bite. so you may need to increase the tab if they do not except it.
 
+# Firmware
+I have already compiled and posted the .hex (qmk) and build.yaml(zmk) in the firmware folder. However, if you would like to make it your own, I have posted the full source code of what I used as well. (There may be some refactoring issues but I think I got most of them. Let me know if there is anything to fix)
+
 # Parts
 The most important part of the whole build was the DB25 connectors. I had to edit the existing DB25 footprint to fit my DB25 pins. So, you might have to as well.
 Here is the list of parts I used
